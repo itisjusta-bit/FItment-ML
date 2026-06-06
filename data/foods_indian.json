@@ -1,0 +1,1338 @@
+[
+  {
+    "id": "BF001",
+    "name": "Poha",
+    "name_hi": "\u092a\u094b\u0939\u093e",
+    "category": "breakfast",
+    "region": [
+      "north",
+      "west"
+    ],
+    "diet_types": [
+      "veg",
+      "vegan",
+      "jain"
+    ],
+    "cal_per_100g": 130,
+    "protein": 2.5,
+    "carbs": 28,
+    "fat": 1.5,
+    "fiber": 1.2,
+    "serving_size": 150,
+    "serving_unit": "g",
+    "serving_name": "1 medium bowl",
+    "tags": [
+      "light",
+      "quick"
+    ]
+  },
+  {
+    "id": "BF002",
+    "name": "Upma",
+    "name_hi": "\u0909\u092a\u092e\u093e",
+    "category": "breakfast",
+    "region": [
+      "south",
+      "west"
+    ],
+    "diet_types": [
+      "veg",
+      "vegan"
+    ],
+    "cal_per_100g": 145,
+    "protein": 3.5,
+    "carbs": 25,
+    "fat": 4,
+    "fiber": 2,
+    "serving_size": 150,
+    "serving_unit": "g",
+    "serving_name": "1 bowl",
+    "tags": [
+      "light",
+      "filling"
+    ]
+  },
+  {
+    "id": "BF003",
+    "name": "Idli",
+    "name_hi": "\u0907\u0921\u0932\u0940",
+    "category": "breakfast",
+    "region": [
+      "south"
+    ],
+    "diet_types": [
+      "veg",
+      "vegan"
+    ],
+    "cal_per_100g": 58,
+    "protein": 2,
+    "carbs": 12,
+    "fat": 0.3,
+    "fiber": 0.5,
+    "serving_size": 200,
+    "serving_unit": "g",
+    "serving_name": "4 idlis",
+    "tags": [
+      "light",
+      "low_cal",
+      "probiotic"
+    ]
+  },
+  {
+    "id": "BF004",
+    "name": "Dosa",
+    "name_hi": "\u0921\u094b\u0938\u093e",
+    "category": "breakfast",
+    "region": [
+      "south"
+    ],
+    "diet_types": [
+      "veg",
+      "vegan"
+    ],
+    "cal_per_100g": 165,
+    "protein": 3.5,
+    "carbs": 30,
+    "fat": 4,
+    "fiber": 1,
+    "serving_size": 100,
+    "serving_unit": "g",
+    "serving_name": "1 plain dosa",
+    "tags": [
+      "filling",
+      "probiotic"
+    ]
+  },
+  {
+    "id": "BF005",
+    "name": "Masala Dosa",
+    "name_hi": "\u092e\u0938\u093e\u0932\u093e \u0921\u094b\u0938\u093e",
+    "category": "breakfast",
+    "region": [
+      "south"
+    ],
+    "diet_types": [
+      "veg"
+    ],
+    "cal_per_100g": 195,
+    "protein": 4,
+    "carbs": 32,
+    "fat": 7,
+    "fiber": 2,
+    "serving_size": 150,
+    "serving_unit": "g",
+    "serving_name": "1 masala dosa",
+    "tags": [
+      "filling",
+      "spicy"
+    ]
+  },
+  {
+    "id": "BF006",
+    "name": "Paratha (Plain)",
+    "name_hi": "\u092a\u0930\u093e\u0902\u0920\u093e",
+    "category": "breakfast",
+    "region": [
+      "north"
+    ],
+    "diet_types": [
+      "veg"
+    ],
+    "cal_per_100g": 300,
+    "protein": 7,
+    "carbs": 45,
+    "fat": 10,
+    "fiber": 2,
+    "serving_size": 100,
+    "serving_unit": "g",
+    "serving_name": "2 parathas",
+    "tags": [
+      "filling",
+      "high_cal"
+    ]
+  },
+  {
+    "id": "BF007",
+    "name": "Aloo Paratha",
+    "name_hi": "\u0906\u0932\u0942 \u092a\u0930\u093e\u0902\u0920\u093e",
+    "category": "breakfast",
+    "region": [
+      "north",
+      "punjab"
+    ],
+    "diet_types": [
+      "veg"
+    ],
+    "cal_per_100g": 340,
+    "protein": 7,
+    "carbs": 50,
+    "fat": 12,
+    "fiber": 3,
+    "serving_size": 150,
+    "serving_unit": "g",
+    "serving_name": "2 aloo parathas",
+    "tags": [
+      "filling",
+      "heavy",
+      "high_cal"
+    ]
+  },
+  {
+    "id": "BF008",
+    "name": "Oats Upma",
+    "name_hi": "\u0913\u091f\u094d\u0938 \u0909\u092a\u092e\u093e",
+    "category": "breakfast",
+    "region": [
+      "all"
+    ],
+    "diet_types": [
+      "veg",
+      "vegan"
+    ],
+    "cal_per_100g": 135,
+    "protein": 4.5,
+    "carbs": 24,
+    "fat": 3,
+    "fiber": 3,
+    "serving_size": 150,
+    "serving_unit": "g",
+    "serving_name": "1 bowl",
+    "tags": [
+      "healthy",
+      "high_fiber",
+      "quick"
+    ]
+  },
+  {
+    "id": "BF009",
+    "name": "Vegetable Omelette",
+    "name_hi": "\u0935\u0947\u091c\u093f\u091f\u0947\u092c\u0932 \u0911\u092e\u0932\u0947\u091f",
+    "category": "breakfast",
+    "region": [
+      "all"
+    ],
+    "diet_types": [
+      "eggetarian",
+      "non_veg"
+    ],
+    "cal_per_100g": 150,
+    "protein": 11,
+    "carbs": 4,
+    "fat": 10,
+    "fiber": 1,
+    "serving_size": 150,
+    "serving_unit": "g",
+    "serving_name": "2 egg omelette",
+    "tags": [
+      "high_protein",
+      "quick",
+      "keto_friendly"
+    ]
+  },
+  {
+    "id": "BF010",
+    "name": "Boiled Eggs",
+    "name_hi": "\u0909\u092c\u0932\u0947 \u0905\u0902\u0921\u0947",
+    "category": "breakfast",
+    "region": [
+      "all"
+    ],
+    "diet_types": [
+      "eggetarian",
+      "non_veg"
+    ],
+    "cal_per_100g": 155,
+    "protein": 13,
+    "carbs": 1,
+    "fat": 11,
+    "fiber": 0,
+    "serving_size": 120,
+    "serving_unit": "g",
+    "serving_name": "2 boiled eggs",
+    "tags": [
+      "high_protein",
+      "quick",
+      "keto_friendly"
+    ]
+  },
+  {
+    "id": "BF011",
+    "name": "Besan Chilla",
+    "name_hi": "\u092c\u0947\u0938\u0928 \u091a\u093f\u0932\u094d\u0932\u093e",
+    "category": "breakfast",
+    "region": [
+      "north"
+    ],
+    "diet_types": [
+      "veg",
+      "vegan",
+      "jain"
+    ],
+    "cal_per_100g": 165,
+    "protein": 9,
+    "carbs": 24,
+    "fat": 4,
+    "fiber": 3,
+    "serving_size": 150,
+    "serving_unit": "g",
+    "serving_name": "2 chillas",
+    "tags": [
+      "high_protein",
+      "filling",
+      "healthy"
+    ]
+  },
+  {
+    "id": "BF012",
+    "name": "Moong Dal Chilla",
+    "name_hi": "\u092e\u0942\u0902\u0917 \u0926\u093e\u0932 \u091a\u093f\u0932\u094d\u0932\u093e",
+    "category": "breakfast",
+    "region": [
+      "north"
+    ],
+    "diet_types": [
+      "veg",
+      "vegan",
+      "jain"
+    ],
+    "cal_per_100g": 170,
+    "protein": 11,
+    "carbs": 22,
+    "fat": 3.5,
+    "fiber": 4,
+    "serving_size": 150,
+    "serving_unit": "g",
+    "serving_name": "2 chillas",
+    "tags": [
+      "high_protein",
+      "healthy",
+      "filling"
+    ]
+  },
+  {
+    "id": "BF013",
+    "name": "Banana",
+    "name_hi": "\u0915\u0947\u0932\u093e",
+    "category": "breakfast",
+    "region": [
+      "all"
+    ],
+    "diet_types": [
+      "veg",
+      "vegan",
+      "jain"
+    ],
+    "cal_per_100g": 89,
+    "protein": 1.1,
+    "carbs": 23,
+    "fat": 0.3,
+    "fiber": 2.6,
+    "serving_size": 120,
+    "serving_unit": "g",
+    "serving_name": "1 medium banana",
+    "tags": [
+      "quick",
+      "energy",
+      "natural_sugar"
+    ]
+  },
+  {
+    "id": "BF014",
+    "name": "Greek Yogurt (Dahi)",
+    "name_hi": "\u0926\u0939\u0940",
+    "category": "breakfast",
+    "region": [
+      "all"
+    ],
+    "diet_types": [
+      "veg"
+    ],
+    "cal_per_100g": 97,
+    "protein": 9,
+    "carbs": 6,
+    "fat": 5,
+    "fiber": 0,
+    "serving_size": 150,
+    "serving_unit": "g",
+    "serving_name": "1 cup dahi",
+    "tags": [
+      "probiotic",
+      "high_protein",
+      "calcium"
+    ]
+  },
+  {
+    "id": "BF015",
+    "name": "Sabudana Khichdi",
+    "name_hi": "\u0938\u093e\u092c\u0942\u0926\u093e\u0928\u093e \u0916\u093f\u091a\u0921\u093c\u0940",
+    "category": "breakfast",
+    "region": [
+      "west",
+      "north"
+    ],
+    "diet_types": [
+      "veg",
+      "jain",
+      "fasting"
+    ],
+    "cal_per_100g": 205,
+    "protein": 3,
+    "carbs": 42,
+    "fat": 5,
+    "fiber": 1,
+    "serving_size": 150,
+    "serving_unit": "g",
+    "serving_name": "1 bowl",
+    "tags": [
+      "fasting_food",
+      "energy",
+      "heavy"
+    ]
+  },
+  {
+    "id": "LU001",
+    "name": "Dal Tadka",
+    "name_hi": "\u0926\u093e\u0932 \u0924\u0921\u093c\u0915\u093e",
+    "category": "lunch",
+    "region": [
+      "north",
+      "all"
+    ],
+    "diet_types": [
+      "veg",
+      "vegan",
+      "jain"
+    ],
+    "cal_per_100g": 85,
+    "protein": 5.5,
+    "carbs": 12,
+    "fat": 2.5,
+    "fiber": 3,
+    "serving_size": 200,
+    "serving_unit": "g",
+    "serving_name": "1 katori",
+    "tags": [
+      "protein_rich",
+      "filling",
+      "traditional"
+    ]
+  },
+  {
+    "id": "LU002",
+    "name": "Rajma",
+    "name_hi": "\u0930\u093e\u091c\u092e\u093e",
+    "category": "lunch",
+    "region": [
+      "north",
+      "punjab"
+    ],
+    "diet_types": [
+      "veg",
+      "vegan"
+    ],
+    "cal_per_100g": 120,
+    "protein": 8,
+    "carbs": 18,
+    "fat": 2,
+    "fiber": 6,
+    "serving_size": 200,
+    "serving_unit": "g",
+    "serving_name": "1 katori",
+    "tags": [
+      "high_protein",
+      "high_fiber",
+      "filling"
+    ]
+  },
+  {
+    "id": "LU003",
+    "name": "Chana Masala",
+    "name_hi": "\u091b\u094b\u0932\u0947 \u092e\u0938\u093e\u0932\u093e",
+    "category": "lunch",
+    "region": [
+      "north",
+      "punjab"
+    ],
+    "diet_types": [
+      "veg",
+      "vegan"
+    ],
+    "cal_per_100g": 130,
+    "protein": 7,
+    "carbs": 20,
+    "fat": 3,
+    "fiber": 6,
+    "serving_size": 200,
+    "serving_unit": "g",
+    "serving_name": "1 katori",
+    "tags": [
+      "high_protein",
+      "high_fiber",
+      "spicy"
+    ]
+  },
+  {
+    "id": "LU004",
+    "name": "Paneer Curry",
+    "name_hi": "\u092a\u0928\u0940\u0930 \u0915\u0930\u0940",
+    "category": "lunch",
+    "region": [
+      "north"
+    ],
+    "diet_types": [
+      "veg"
+    ],
+    "cal_per_100g": 180,
+    "protein": 12,
+    "carbs": 8,
+    "fat": 12,
+    "fiber": 1,
+    "serving_size": 200,
+    "serving_unit": "g",
+    "serving_name": "1 katori",
+    "tags": [
+      "high_protein",
+      "calcium",
+      "creamy"
+    ]
+  },
+  {
+    "id": "LU005",
+    "name": "Dal Makhani",
+    "name_hi": "\u0926\u093e\u0932 \u092e\u0916\u0928\u0940",
+    "category": "lunch",
+    "region": [
+      "north",
+      "punjab"
+    ],
+    "diet_types": [
+      "veg"
+    ],
+    "cal_per_100g": 150,
+    "protein": 8,
+    "carbs": 20,
+    "fat": 5,
+    "fiber": 4,
+    "serving_size": 200,
+    "serving_unit": "g",
+    "serving_name": "1 katori",
+    "tags": [
+      "protein_rich",
+      "creamy",
+      "indulgent"
+    ]
+  },
+  {
+    "id": "LU006",
+    "name": "Sambar",
+    "name_hi": "\u0938\u093e\u092e\u094d\u092c\u093e\u0930",
+    "category": "lunch",
+    "region": [
+      "south"
+    ],
+    "diet_types": [
+      "veg",
+      "vegan"
+    ],
+    "cal_per_100g": 55,
+    "protein": 3.5,
+    "carbs": 8,
+    "fat": 1.5,
+    "fiber": 2.5,
+    "serving_size": 200,
+    "serving_unit": "g",
+    "serving_name": "1 bowl",
+    "tags": [
+      "low_cal",
+      "probiotic",
+      "filling"
+    ]
+  },
+  {
+    "id": "LU007",
+    "name": "Chicken Curry",
+    "name_hi": "\u091a\u093f\u0915\u0928 \u0915\u0930\u0940",
+    "category": "lunch",
+    "region": [
+      "all"
+    ],
+    "diet_types": [
+      "non_veg"
+    ],
+    "cal_per_100g": 175,
+    "protein": 18,
+    "carbs": 5,
+    "fat": 10,
+    "fiber": 1,
+    "serving_size": 200,
+    "serving_unit": "g",
+    "serving_name": "1 katori",
+    "tags": [
+      "high_protein",
+      "spicy",
+      "traditional"
+    ]
+  },
+  {
+    "id": "LU008",
+    "name": "Grilled Chicken",
+    "name_hi": "\u0917\u094d\u0930\u093f\u0932\u094d\u0921 \u091a\u093f\u0915\u0928",
+    "category": "lunch",
+    "region": [
+      "all"
+    ],
+    "diet_types": [
+      "non_veg"
+    ],
+    "cal_per_100g": 165,
+    "protein": 31,
+    "carbs": 0,
+    "fat": 3.6,
+    "fiber": 0,
+    "serving_size": 150,
+    "serving_unit": "g",
+    "serving_name": "150g portion",
+    "tags": [
+      "high_protein",
+      "low_fat",
+      "gym_food",
+      "keto_friendly"
+    ]
+  },
+  {
+    "id": "LU009",
+    "name": "Egg Curry",
+    "name_hi": "\u0905\u0902\u0921\u093e \u0915\u0930\u0940",
+    "category": "lunch",
+    "region": [
+      "all"
+    ],
+    "diet_types": [
+      "eggetarian",
+      "non_veg"
+    ],
+    "cal_per_100g": 140,
+    "protein": 10,
+    "carbs": 6,
+    "fat": 9,
+    "fiber": 1,
+    "serving_size": 200,
+    "serving_unit": "g",
+    "serving_name": "2 eggs in curry",
+    "tags": [
+      "high_protein",
+      "spicy",
+      "affordable"
+    ]
+  },
+  {
+    "id": "LU010",
+    "name": "Steamed Rice",
+    "name_hi": "\u0909\u092c\u0932\u093e \u0939\u0941\u0906 \u091a\u093e\u0935\u0932",
+    "category": "lunch",
+    "region": [
+      "all"
+    ],
+    "diet_types": [
+      "veg",
+      "vegan",
+      "jain"
+    ],
+    "cal_per_100g": 130,
+    "protein": 2.5,
+    "carbs": 28,
+    "fat": 0.3,
+    "fiber": 0.4,
+    "serving_size": 150,
+    "serving_unit": "g",
+    "serving_name": "1 small katori cooked",
+    "tags": [
+      "staple",
+      "energy",
+      "bland"
+    ]
+  },
+  {
+    "id": "LU011",
+    "name": "Brown Rice",
+    "name_hi": "\u092c\u094d\u0930\u093e\u0909\u0928 \u0930\u093e\u0907\u0938",
+    "category": "lunch",
+    "region": [
+      "all"
+    ],
+    "diet_types": [
+      "veg",
+      "vegan",
+      "jain"
+    ],
+    "cal_per_100g": 125,
+    "protein": 2.7,
+    "carbs": 26,
+    "fat": 0.9,
+    "fiber": 1.8,
+    "serving_size": 150,
+    "serving_unit": "g",
+    "serving_name": "1 small katori cooked",
+    "tags": [
+      "healthier",
+      "high_fiber",
+      "slow_carb"
+    ]
+  },
+  {
+    "id": "LU012",
+    "name": "Roti / Chapati",
+    "name_hi": "\u0930\u094b\u091f\u0940/\u091a\u092a\u093e\u0924\u0940",
+    "category": "lunch",
+    "region": [
+      "north",
+      "all"
+    ],
+    "diet_types": [
+      "veg",
+      "vegan",
+      "jain"
+    ],
+    "cal_per_100g": 297,
+    "protein": 8,
+    "carbs": 55,
+    "fat": 4,
+    "fiber": 2.5,
+    "serving_size": 120,
+    "serving_unit": "g",
+    "serving_name": "2 medium rotis",
+    "tags": [
+      "staple",
+      "whole_grain",
+      "filling"
+    ]
+  },
+  {
+    "id": "LU013",
+    "name": "Multigrain Roti",
+    "name_hi": "\u092e\u0932\u094d\u091f\u0940\u0917\u094d\u0930\u0947\u0928 \u0930\u094b\u091f\u0940",
+    "category": "lunch",
+    "region": [
+      "north",
+      "all"
+    ],
+    "diet_types": [
+      "veg",
+      "vegan",
+      "jain"
+    ],
+    "cal_per_100g": 280,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 4.5,
+    "fiber": 5,
+    "serving_size": 120,
+    "serving_unit": "g",
+    "serving_name": "2 medium rotis",
+    "tags": [
+      "healthy",
+      "high_fiber",
+      "high_protein"
+    ]
+  },
+  {
+    "id": "LU014",
+    "name": "Curd Rice",
+    "name_hi": "\u0926\u0939\u0940 \u091a\u093e\u0935\u0932",
+    "category": "lunch",
+    "region": [
+      "south"
+    ],
+    "diet_types": [
+      "veg"
+    ],
+    "cal_per_100g": 110,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 2.5,
+    "fiber": 0.5,
+    "serving_size": 200,
+    "serving_unit": "g",
+    "serving_name": "1 bowl",
+    "tags": [
+      "probiotic",
+      "light",
+      "cooling"
+    ]
+  },
+  {
+    "id": "LU015",
+    "name": "Vegetable Khichdi",
+    "name_hi": "\u0938\u092c\u094d\u091c\u0940 \u0916\u093f\u091a\u0921\u093c\u0940",
+    "category": "lunch",
+    "region": [
+      "all"
+    ],
+    "diet_types": [
+      "veg",
+      "vegan",
+      "jain",
+      "fasting"
+    ],
+    "cal_per_100g": 105,
+    "protein": 4.5,
+    "carbs": 19,
+    "fat": 2,
+    "fiber": 2.5,
+    "serving_size": 200,
+    "serving_unit": "g",
+    "serving_name": "1 bowl",
+    "tags": [
+      "comfort_food",
+      "light",
+      "balanced",
+      "fasting_food"
+    ]
+  },
+  {
+    "id": "DI001",
+    "name": "Palak Paneer",
+    "name_hi": "\u092a\u093e\u0932\u0915 \u092a\u0928\u0940\u0930",
+    "category": "dinner",
+    "region": [
+      "north"
+    ],
+    "diet_types": [
+      "veg"
+    ],
+    "cal_per_100g": 150,
+    "protein": 10,
+    "carbs": 7,
+    "fat": 10,
+    "fiber": 2.5,
+    "serving_size": 200,
+    "serving_unit": "g",
+    "serving_name": "1 katori",
+    "tags": [
+      "high_protein",
+      "iron_rich",
+      "calcium",
+      "nutrient_dense"
+    ]
+  },
+  {
+    "id": "DI002",
+    "name": "Chicken Tikka",
+    "name_hi": "\u091a\u093f\u0915\u0928 \u091f\u093f\u0915\u094d\u0915\u093e",
+    "category": "dinner",
+    "region": [
+      "north",
+      "all"
+    ],
+    "diet_types": [
+      "non_veg"
+    ],
+    "cal_per_100g": 190,
+    "protein": 28,
+    "carbs": 5,
+    "fat": 7,
+    "fiber": 0.5,
+    "serving_size": 150,
+    "serving_unit": "g",
+    "serving_name": "150g",
+    "tags": [
+      "high_protein",
+      "grilled",
+      "gym_food"
+    ]
+  },
+  {
+    "id": "DI003",
+    "name": "Fish Curry",
+    "name_hi": "\u092e\u091b\u0932\u0940 \u0915\u0930\u0940",
+    "category": "dinner",
+    "region": [
+      "east",
+      "south",
+      "coastal"
+    ],
+    "diet_types": [
+      "non_veg"
+    ],
+    "cal_per_100g": 140,
+    "protein": 18,
+    "carbs": 4,
+    "fat": 7,
+    "fiber": 0.5,
+    "serving_size": 200,
+    "serving_unit": "g",
+    "serving_name": "1 katori",
+    "tags": [
+      "high_protein",
+      "omega3",
+      "light"
+    ]
+  },
+  {
+    "id": "DI004",
+    "name": "Paneer Bhurji",
+    "name_hi": "\u092a\u0928\u0940\u0930 \u092d\u0941\u0930\u094d\u091c\u0940",
+    "category": "dinner",
+    "region": [
+      "north"
+    ],
+    "diet_types": [
+      "veg"
+    ],
+    "cal_per_100g": 180,
+    "protein": 13,
+    "carbs": 5,
+    "fat": 13,
+    "fiber": 1,
+    "serving_size": 150,
+    "serving_unit": "g",
+    "serving_name": "1 katori",
+    "tags": [
+      "high_protein",
+      "quick",
+      "filling"
+    ]
+  },
+  {
+    "id": "DI005",
+    "name": "Egg Bhurji",
+    "name_hi": "\u0905\u0902\u0921\u093e \u092d\u0941\u0930\u094d\u091c\u0940",
+    "category": "dinner",
+    "region": [
+      "all"
+    ],
+    "diet_types": [
+      "eggetarian",
+      "non_veg"
+    ],
+    "cal_per_100g": 160,
+    "protein": 12,
+    "carbs": 3,
+    "fat": 12,
+    "fiber": 0.5,
+    "serving_size": 150,
+    "serving_unit": "g",
+    "serving_name": "2 egg bhurji",
+    "tags": [
+      "high_protein",
+      "quick",
+      "keto_friendly"
+    ]
+  },
+  {
+    "id": "DI006",
+    "name": "Moong Dal Soup",
+    "name_hi": "\u092e\u0942\u0902\u0917 \u0926\u093e\u0932 \u0938\u0942\u092a",
+    "category": "dinner",
+    "region": [
+      "all"
+    ],
+    "diet_types": [
+      "veg",
+      "vegan",
+      "jain"
+    ],
+    "cal_per_100g": 65,
+    "protein": 5,
+    "carbs": 9,
+    "fat": 1,
+    "fiber": 2,
+    "serving_size": 250,
+    "serving_unit": "ml",
+    "serving_name": "1 bowl soup",
+    "tags": [
+      "light",
+      "protein_rich",
+      "easy_digest",
+      "weight_loss"
+    ]
+  },
+  {
+    "id": "DI007",
+    "name": "Chicken Soup",
+    "name_hi": "\u091a\u093f\u0915\u0928 \u0938\u0942\u092a",
+    "category": "dinner",
+    "region": [
+      "all"
+    ],
+    "diet_types": [
+      "non_veg"
+    ],
+    "cal_per_100g": 45,
+    "protein": 7,
+    "carbs": 2,
+    "fat": 1.5,
+    "fiber": 0.5,
+    "serving_size": 300,
+    "serving_unit": "ml",
+    "serving_name": "1 bowl",
+    "tags": [
+      "light",
+      "high_protein",
+      "weight_loss",
+      "recovery"
+    ]
+  },
+  {
+    "id": "DI008",
+    "name": "Mixed Vegetable Sabzi",
+    "name_hi": "\u092e\u093f\u0915\u094d\u0938 \u0938\u092c\u094d\u091c\u0940",
+    "category": "dinner",
+    "region": [
+      "all"
+    ],
+    "diet_types": [
+      "veg",
+      "vegan",
+      "jain"
+    ],
+    "cal_per_100g": 80,
+    "protein": 3,
+    "carbs": 12,
+    "fat": 3,
+    "fiber": 3.5,
+    "serving_size": 150,
+    "serving_unit": "g",
+    "serving_name": "1 katori",
+    "tags": [
+      "low_cal",
+      "fiber_rich",
+      "light"
+    ]
+  },
+  {
+    "id": "DI009",
+    "name": "Baingan Bharta",
+    "name_hi": "\u092c\u0948\u0917\u0928 \u092d\u0930\u094d\u0924\u093e",
+    "category": "dinner",
+    "region": [
+      "north",
+      "punjab"
+    ],
+    "diet_types": [
+      "veg",
+      "vegan"
+    ],
+    "cal_per_100g": 70,
+    "protein": 2.5,
+    "carbs": 9,
+    "fat": 3,
+    "fiber": 4,
+    "serving_size": 150,
+    "serving_unit": "g",
+    "serving_name": "1 katori",
+    "tags": [
+      "low_cal",
+      "smoky",
+      "light",
+      "antioxidant"
+    ]
+  },
+  {
+    "id": "DI010",
+    "name": "Tuna Salad",
+    "name_hi": "\u091f\u0942\u0928\u093e \u0938\u0932\u093e\u0926",
+    "category": "dinner",
+    "region": [
+      "all"
+    ],
+    "diet_types": [
+      "non_veg"
+    ],
+    "cal_per_100g": 120,
+    "protein": 22,
+    "carbs": 2,
+    "fat": 3,
+    "fiber": 1,
+    "serving_size": 200,
+    "serving_unit": "g",
+    "serving_name": "1 bowl",
+    "tags": [
+      "high_protein",
+      "low_cal",
+      "omega3",
+      "gym_food",
+      "keto_friendly"
+    ]
+  },
+  {
+    "id": "SN001",
+    "name": "Roasted Chana",
+    "name_hi": "\u092d\u0941\u0928\u0947 \u091a\u0928\u0947",
+    "category": "snack",
+    "region": [
+      "all"
+    ],
+    "diet_types": [
+      "veg",
+      "vegan",
+      "jain"
+    ],
+    "cal_per_100g": 364,
+    "protein": 17,
+    "carbs": 56,
+    "fat": 5,
+    "fiber": 17,
+    "serving_size": 30,
+    "serving_unit": "g",
+    "serving_name": "handful (30g)",
+    "tags": [
+      "high_protein",
+      "high_fiber",
+      "portable",
+      "gym_snack"
+    ]
+  },
+  {
+    "id": "SN002",
+    "name": "Sprouts",
+    "name_hi": "\u0905\u0902\u0915\u0941\u0930\u093f\u0924 \u0926\u093e\u0932\u0947\u0902",
+    "category": "snack",
+    "region": [
+      "all"
+    ],
+    "diet_types": [
+      "veg",
+      "vegan",
+      "jain"
+    ],
+    "cal_per_100g": 60,
+    "protein": 4.5,
+    "carbs": 9,
+    "fat": 0.5,
+    "fiber": 2,
+    "serving_size": 100,
+    "serving_unit": "g",
+    "serving_name": "1 small bowl",
+    "tags": [
+      "high_protein",
+      "low_cal",
+      "superfood",
+      "detox"
+    ]
+  },
+  {
+    "id": "SN003",
+    "name": "Banana + Peanut Butter",
+    "name_hi": "\u0915\u0947\u0932\u093e + \u092e\u0942\u0902\u0917\u092b\u0932\u0940 \u092e\u0915\u094d\u0916\u0928",
+    "category": "snack",
+    "region": [
+      "all"
+    ],
+    "diet_types": [
+      "veg",
+      "vegan"
+    ],
+    "cal_per_100g": 210,
+    "protein": 5,
+    "carbs": 28,
+    "fat": 9,
+    "fiber": 3,
+    "serving_size": 160,
+    "serving_unit": "g",
+    "serving_name": "1 banana + 1 tbsp PB",
+    "tags": [
+      "pre_workout",
+      "energy",
+      "portable"
+    ]
+  },
+  {
+    "id": "SN004",
+    "name": "Paneer Cubes (raw)",
+    "name_hi": "\u092a\u0928\u0940\u0930",
+    "category": "snack",
+    "region": [
+      "all"
+    ],
+    "diet_types": [
+      "veg"
+    ],
+    "cal_per_100g": 265,
+    "protein": 18,
+    "carbs": 3,
+    "fat": 20,
+    "fiber": 0,
+    "serving_size": 80,
+    "serving_unit": "g",
+    "serving_name": "80g cubes",
+    "tags": [
+      "high_protein",
+      "calcium",
+      "keto_friendly",
+      "gym_snack"
+    ]
+  },
+  {
+    "id": "SN005",
+    "name": "Coconut Water",
+    "name_hi": "\u0928\u093e\u0930\u093f\u092f\u0932 \u092a\u093e\u0928\u0940",
+    "category": "snack",
+    "region": [
+      "south",
+      "coastal",
+      "all"
+    ],
+    "diet_types": [
+      "veg",
+      "vegan",
+      "jain",
+      "fasting"
+    ],
+    "cal_per_100g": 19,
+    "protein": 0.7,
+    "carbs": 4,
+    "fat": 0.2,
+    "fiber": 1,
+    "serving_size": 250,
+    "serving_unit": "ml",
+    "serving_name": "1 glass",
+    "tags": [
+      "hydration",
+      "electrolytes",
+      "natural",
+      "post_workout"
+    ]
+  },
+  {
+    "id": "SN006",
+    "name": "Mixed Nuts",
+    "name_hi": "\u092e\u093f\u0936\u094d\u0930\u093f\u0924 \u092e\u0947\u0935\u0947",
+    "category": "snack",
+    "region": [
+      "all"
+    ],
+    "diet_types": [
+      "veg",
+      "vegan",
+      "jain",
+      "fasting"
+    ],
+    "cal_per_100g": 600,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 50,
+    "fiber": 7,
+    "serving_size": 30,
+    "serving_unit": "g",
+    "serving_name": "small handful",
+    "tags": [
+      "healthy_fat",
+      "portable",
+      "energy_dense",
+      "keto_friendly"
+    ]
+  },
+  {
+    "id": "SN007",
+    "name": "Buttermilk (Chaas)",
+    "name_hi": "\u091b\u093e\u091b",
+    "category": "snack",
+    "region": [
+      "all"
+    ],
+    "diet_types": [
+      "veg",
+      "fasting"
+    ],
+    "cal_per_100g": 40,
+    "protein": 3,
+    "carbs": 4.5,
+    "fat": 1.5,
+    "fiber": 0,
+    "serving_size": 250,
+    "serving_unit": "ml",
+    "serving_name": "1 glass",
+    "tags": [
+      "probiotic",
+      "cooling",
+      "low_cal",
+      "digestive"
+    ]
+  },
+  {
+    "id": "SN008",
+    "name": "Sweet Potato Chaat",
+    "name_hi": "\u0936\u0915\u0930\u0915\u0902\u0926 \u091a\u093e\u091f",
+    "category": "snack",
+    "region": [
+      "north",
+      "all"
+    ],
+    "diet_types": [
+      "veg",
+      "vegan",
+      "jain",
+      "fasting"
+    ],
+    "cal_per_100g": 90,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 0.5,
+    "fiber": 3,
+    "serving_size": 150,
+    "serving_unit": "g",
+    "serving_name": "1 small bowl",
+    "tags": [
+      "healthy_carb",
+      "vitamin_A",
+      "fasting_food",
+      "pre_workout"
+    ]
+  },
+  {
+    "id": "SN009",
+    "name": "Protein Shake (Whey)",
+    "name_hi": "\u092a\u094d\u0930\u094b\u091f\u0940\u0928 \u0936\u0947\u0915",
+    "category": "snack",
+    "region": [
+      "all"
+    ],
+    "diet_types": [
+      "veg"
+    ],
+    "cal_per_100g": 380,
+    "protein": 75,
+    "carbs": 10,
+    "fat": 5,
+    "fiber": 0,
+    "serving_size": 35,
+    "serving_unit": "g",
+    "serving_name": "1 scoop (35g)",
+    "tags": [
+      "high_protein",
+      "post_workout",
+      "supplement",
+      "gym_food"
+    ]
+  },
+  {
+    "id": "SN010",
+    "name": "Fruit Bowl",
+    "name_hi": "\u092b\u094d\u0930\u0942\u091f \u092c\u093e\u0909\u0932",
+    "category": "snack",
+    "region": [
+      "all"
+    ],
+    "diet_types": [
+      "veg",
+      "vegan",
+      "jain",
+      "fasting"
+    ],
+    "cal_per_100g": 65,
+    "protein": 1,
+    "carbs": 15,
+    "fat": 0.3,
+    "fiber": 2,
+    "serving_size": 200,
+    "serving_unit": "g",
+    "serving_name": "1 mixed fruit bowl",
+    "tags": [
+      "vitamins",
+      "natural_sugar",
+      "light",
+      "hydrating"
+    ]
+  }
+]
